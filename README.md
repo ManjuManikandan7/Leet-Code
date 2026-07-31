@@ -15,6 +15,7 @@ Leet Code Problems
 | [0001-two-sum](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan7/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ Leet Code Problems
 | [0013-roman-to-integer](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0020-valid-parentheses/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan7/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +73,16 @@ Leet Code Problems
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0010-regular-expression-matching/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan7/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan7/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan7/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 <!---LeetCode Topics End-->
