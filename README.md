@@ -10,12 +10,14 @@ Leet Code Problems
 | [0004-median-of-two-sorted-arrays](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0014-longest-common-prefix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ManjuManikandan7/Leet-Code/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1980-find-unique-binary-string](https://github.com/ManjuManikandan7/Leet-Code/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
+| [1980-find-unique-binary-string](https://github.com/ManjuManikandan7/Leet-Code/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan7/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -38,6 +40,7 @@ Leet Code Problems
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ManjuManikandan7/Leet-Code/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ManjuManikandan7/Leet-Code/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ManjuManikandan7/Leet-Code/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/ManjuManikandan7/Leet-Code/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan7/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -95,4 +98,8 @@ Leet Code Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ManjuManikandan7/Leet-Code/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/ManjuManikandan7/Leet-Code/tree/main/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->
