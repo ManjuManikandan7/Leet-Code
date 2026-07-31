@@ -37,6 +37,7 @@ Leet Code Problems
 | [0020-valid-parentheses](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0020-valid-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ManjuManikandan7/Leet-Code/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ManjuManikandan7/Leet-Code/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ManjuManikandan7/Leet-Code/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan7/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@ Leet Code Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ManjuManikandan7/Leet-Code/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@ Leet Code Problems
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0010-regular-expression-matching/) | Hard |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ManjuManikandan7/Leet-Code/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
