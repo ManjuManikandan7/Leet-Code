@@ -35,6 +35,7 @@ Leet Code Problems
 | [0013-roman-to-integer](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0020-valid-parentheses/) | Easy |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ManjuManikandan7/Leet-Code/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan7/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
