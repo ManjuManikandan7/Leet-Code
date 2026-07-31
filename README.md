@@ -19,6 +19,7 @@ Leet Code Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 ## String
