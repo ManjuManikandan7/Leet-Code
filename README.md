@@ -9,6 +9,7 @@ Leet Code Problems
 | [0001-two-sum](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0014-longest-common-prefix/) | Easy |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ManjuManikandan7/Leet-Code/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +86,8 @@ Leet Code Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan7/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ManjuManikandan7/Leet-Code/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 <!---LeetCode Topics End-->
