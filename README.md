@@ -25,6 +25,7 @@ Leet Code Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0020-valid-parentheses/) | Easy |
@@ -56,4 +57,12 @@ Leet Code Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ManjuManikandan7/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
